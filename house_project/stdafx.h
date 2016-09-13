@@ -10,7 +10,8 @@
 #include <fstream>
 #include <tchar.h>
 #include <iostream>
-#include <string.h>
+#include <string>
+#include <iomanip>
 
 
 // TODO: reference additional headers your program requires here
