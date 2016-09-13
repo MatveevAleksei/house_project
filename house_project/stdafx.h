@@ -7,9 +7,10 @@
 
 #include "targetver.h"
 
-#include <stdio.h>
+#include <fstream>
 #include <tchar.h>
-
+#include <iostream>
+#include <string.h>
 
 
 // TODO: reference additional headers your program requires here
