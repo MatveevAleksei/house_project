@@ -2,11 +2,16 @@
 //
 
 #include "stdafx.h"
-using namespace std;
+
+struct room {
+
+};
+
 
 int main()
 {
-	
+	using namespace std;
+
 
 	getchar();
     return 0;
