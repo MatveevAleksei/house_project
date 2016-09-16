@@ -3,9 +3,7 @@
 
 #include "stdafx.h"
 
-struct room {
 
-};
 
 
 int main()
